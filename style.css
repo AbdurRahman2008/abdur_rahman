@@ -1,0 +1,59 @@
+h3{
+    font-family: 'Proxima Nova', sans-serif;
+    color: white;
+}
+
+h1{
+    font-family: sans-serif;
+    color: white;
+}
+
+h2{
+    font-family: sans-serif;
+    color: white;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.rightheader {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    align-items: center;
+  
+}
+
+.leftheader{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 70px;
+    border-radius: 50%;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+h4{
+    color: aquamarine;
+    font-family: sans-serif;
+}
+
+a{
+    color:rgb(34, 233, 150);
+}
+
+
+
+  
+
+  
